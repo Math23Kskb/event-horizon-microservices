@@ -21,6 +21,7 @@
         <module>user-service</module>
         <module>event-service</module>
         <module>service-registry</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>
